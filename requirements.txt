@@ -5,3 +5,4 @@ txtai[pipeline]
 Pillow
 beautifulsoup4==4.11.1
 bs4==0.0.1
+faiss-cpu==1.7.2
