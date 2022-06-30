@@ -2,6 +2,8 @@
 import streamlit as st
 from txtai.pipeline import Textractor
 from txtai.embeddings import Embeddings
+import nltk
+nltk.download('punkt')
   #Web Scraping
 import bs4 as bs
 import urllib.request
