@@ -4,5 +4,4 @@ txtai @ git+https://github.com/neuml/txtai@a7aed3cf46d2886d6c713b23a51d7adb13429
 txtai[pipeline]
 Pillow
 beautifulsoup4
-faiss.swigfaiss_avx2
 faiss-cpu==1.7.2
