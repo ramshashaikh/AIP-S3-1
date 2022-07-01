@@ -41,6 +41,7 @@ def my_function_pdf():
 
 ## webscrap function
 def my_web():
+  from txtai.pipeline import Textractor
   textract = Textractor(sentences=True)
   data_lines = []
   total_lines = []
